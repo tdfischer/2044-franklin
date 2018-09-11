@@ -1,7 +1,3 @@
----
-title: 2044 Franklin
-layout: page
----
 2044 Franklin St
 Oakland, CA
 94612
