@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: "2044 Franklin"
 description: "A community organizing space."
+show_downloads: false
+github:
+  is_project_page: false
