@@ -30,6 +30,7 @@ Whats inside the building:
 * Bike parking
 * An actual bank vault, without the money
 * Massive two story tall street interfacing exterior windows
+* RFID keyless entry system
 
 Things we've hosted previously:
 
@@ -47,4 +48,5 @@ In a past life, 2044 Franklin St. was a bank office. Today, it serves the people
 of Oakland more than any bank ever will.
 
 For information about 2044 Franklin or if you'd like to use the space to host
-your event or organization (usually for free!), email tdfischer@hackerbots.net
+your event or organization (usually for free!), [join our discussion group and
+start asking questions.](https://groups.google.com/forum/#!forum/2044-franklin)
